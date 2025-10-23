@@ -1,7 +1,3 @@
-Here’s a professional and informative `README.md` draft for the GitHub repository **Research-paper-submission-system-ev2**:
-
----
-
 # 📚 Research Paper Submission System
 
 A structured SQL-based backend system designed to manage the end-to-end workflow of research paper submissions, reviews, and conference assignments.
